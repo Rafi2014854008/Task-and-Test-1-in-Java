@@ -1,4 +1,10 @@
-
+/*
+ * ITT786: Read txt file 
+ * Author: Rafi Faizal Bin Zainal Abidin
+ * Matrix No: 2014854008
+ * Email Address: roughfee89@gmail.com
+ * Github Account: https://github.com/rafi2014854008 
+ */
 package task.pkg1;
 
 import java.io.BufferedReader;
